@@ -1,20 +1,20 @@
 # Fase Bônus
 
-> Guias, comparativos e reviews de games, consoles e acessórios, a partir dos dados públicos dos anúncios do Mercado Livre, com preço e data de leitura.
+> Guias, comparativos e reviews de games, consoles e acessórios, a partir dos dados públicos dos anúncios (Mercado Livre e Shopee), com preço e data de leitura.
 
 Contém links de afiliado Mercado Livre.
 
 ## Comparativos
-- [5 consoles de videogame até R$ 4.500: comparativo com preços de 21/10](https://marcusviniciusps08-hue.github.io/blog-fase-extra/top/consoles-de-videogame-ate-4500/)
-- [4 controles de jogos até R$ 190: comparativo com preços de 21/10](https://marcusviniciusps08-hue.github.io/blog-fase-extra/top/controles-de-jogos-ate-190/)
-- [4 fones de ouvido até R$ 130: comparativo com preços de 21/10](https://marcusviniciusps08-hue.github.io/blog-fase-extra/top/fones-de-ouvido-ate-130/)
-- [4 jogos e acessórios de videogame até R$ 140: comparativo com preços de 21/10](https://marcusviniciusps08-hue.github.io/blog-fase-extra/top/jogos-e-acessorios-de-videogame-ate-140/)
+- [5 consoles de videogame até R$ 4.500: comparativo com preços de 23/10](https://marcusviniciusps08-hue.github.io/blog-fase-extra/top/consoles-de-videogame-ate-4500/)
+- [4 controles de jogos até R$ 190: comparativo com preços de 23/10](https://marcusviniciusps08-hue.github.io/blog-fase-extra/top/controles-de-jogos-ate-190/)
+- [4 fones de ouvido até R$ 130: comparativo com preços de 23/10](https://marcusviniciusps08-hue.github.io/blog-fase-extra/top/fones-de-ouvido-ate-130/)
+- [5 jogos e acessórios de videogame até R$ 130: comparativo com preços de 23/10](https://marcusviniciusps08-hue.github.io/blog-fase-extra/top/jogos-e-acessorios-de-videogame-ate-130/)
 
 ## Guias
-- [Como escolher console de videogame: o que olhar na ficha antes de gastar (de R$ 593,81 a R$ 6.890,90)](https://marcusviniciusps08-hue.github.io/blog-fase-extra/guia/como-escolher-console-de-videogame/)
-- [Como escolher controle de jogos: o que olhar na ficha antes de gastar (de R$ 43,83 a R$ 441,86)](https://marcusviniciusps08-hue.github.io/blog-fase-extra/guia/como-escolher-controle-de-jogos/)
+- [Como escolher console de videogame: o que olhar na ficha antes de gastar (de R$ 596,17 a R$ 7.899)](https://marcusviniciusps08-hue.github.io/blog-fase-extra/guia/como-escolher-console-de-videogame/)
+- [Como escolher controle de jogos: o que olhar na ficha antes de gastar (de R$ 42,10 a R$ 443,61)](https://marcusviniciusps08-hue.github.io/blog-fase-extra/guia/como-escolher-controle-de-jogos/)
 - [Como escolher fone de ouvido: o que olhar na ficha antes de gastar (de R$ 43,99 a R$ 429,99)](https://marcusviniciusps08-hue.github.io/blog-fase-extra/guia/como-escolher-fone-de-ouvido/)
-- [Como escolher item de videogame: o que olhar na ficha antes de gastar (de R$ 27,50 a R$ 313,99)](https://marcusviniciusps08-hue.github.io/blog-fase-extra/guia/como-escolher-item-de-videogame/)
+- [Como escolher item de videogame: o que olhar na ficha antes de gastar (de R$ 7,37 a R$ 329)](https://marcusviniciusps08-hue.github.io/blog-fase-extra/guia/como-escolher-item-de-videogame/)
 
 ## Reviews
 - [Console Nintendo Switch 2, Modelo Nacional de Tomada: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-fase-extra/review/console-nintendo-switch-2-modelo-nacional-de-tomada-f7cf71/)
@@ -41,6 +41,7 @@ Contém links de afiliado Mercado Livre.
 - [Fones de ouvido Jbl Endurance Race 2 Bluetooth em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-fase-extra/review/fones-de-ouvido-jbl-endurance-race-2-bluetooth-ecc26c/)
 - [Headset Gamer Python Viper Pro Preto LED Verde: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-fase-extra/review/headset-gamer-python-viper-pro-preto-led-verde-e83ed2/)
 - [Headset Gamer V-Shield RGB USB Com Microfone Flexível: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-fase-extra/review/headset-gamer-v-shield-rgb-usb-com-microfone-flexivel-06bd09/)
+- [1/2/5 PCS Suportes Práticos De Controle Remoto, Suportes: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-fase-extra/review/1-2-5-pcs-suportes-praticos-de-controle-remoto-suportes-932bac/)
 - [Bateria para Controle Xbox 360 Recarregável Com Cabo: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-fase-extra/review/bateria-para-controle-xbox-360-recarregavel-com-cabo-b200e0/)
 - [Câmbio Driving Force Shifter Preto Logitech G em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-fase-extra/review/cambio-driving-force-shifter-preto-logitech-g-5dcda2/)
 - [Jogo Gta 5 Ps5 - Grand Theft Auto: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-fase-extra/review/jogo-gta-5-ps5-grand-theft-auto-47ad9b/)
@@ -49,6 +50,8 @@ Contém links de afiliado Mercado Livre.
 - [Sony PlayStation Store Gift Card R$ 150 (Digital) em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-fase-extra/review/sony-playstation-store-gift-card-r-150-digital-65d389/)
 - [Super Mario Bros. Wonder Nintendo Switch (físico) em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-fase-extra/review/super-mario-bros-wonder-nintendo-switch-fisico-1a37ce/)
 - [The Legend of Zelda: Tears of the Kingdom em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-fase-extra/review/the-legend-of-zelda-tears-of-the-kingdom-cc36f4/)
+- [Cabo HDMI 2 Metros 2.0 Full HD 4K: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-fase-extra/review/cabo-hdmi-2-metros-2-0-full-hd-4k-2001d6/)
+- [Fone ouvido Xiaomi Redmi Airdots 2 /S TWS: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-fase-extra/review/fone-ouvido-xiaomi-redmi-airdots-2-s-tws-3d562d/)
 
 ## Sobre
 - [Sobre e afiliação](https://marcusviniciusps08-hue.github.io/blog-fase-extra/sobre/)
