@@ -1,28 +1,24 @@
 # Fase Bônus
 
-> Guias, comparativos e reviews de games, consoles e acessórios, a partir dos dados públicos dos anúncios (Mercado Livre e Shopee), com preço e data de leitura.
+> Guias, comparativos e reviews de games, consoles e acessórios, a partir dos dados públicos dos anúncios (Mercado Livre), com preço e data de leitura.
 
 Contém links de afiliado Mercado Livre.
 
 ## Comparativos
-- [5 consoles de videogame até R$ 4.500: comparativo com preços de 02/11](https://marcusviniciusps08-hue.github.io/blog-fase-extra/top/consoles-de-videogame-ate-4500/)
-- [4 controles de jogos até R$ 180: comparativo com preços de 02/11](https://marcusviniciusps08-hue.github.io/blog-fase-extra/top/controles-de-jogos-ate-180/)
-- [4 fones de ouvido até R$ 70: comparativo com preços de 02/11](https://marcusviniciusps08-hue.github.io/blog-fase-extra/top/fones-de-ouvido-ate-70/)
-- [5 jogos e acessórios de videogame até R$ 130: comparativo com preços de 02/11](https://marcusviniciusps08-hue.github.io/blog-fase-extra/top/jogos-e-acessorios-de-videogame-ate-130/)
+- [4 consoles de videogame até R$ 7.700: comparativo com preços de 14/11](https://marcusviniciusps08-hue.github.io/blog-fase-extra/top/consoles-de-videogame-ate-7700/)
+- [4 controles de jogos até R$ 300: comparativo com preços de 14/11](https://marcusviniciusps08-hue.github.io/blog-fase-extra/top/controles-de-jogos-ate-300/)
+- [4 fones de ouvido até R$ 70: comparativo com preços de 14/11](https://marcusviniciusps08-hue.github.io/blog-fase-extra/top/fones-de-ouvido-ate-70/)
+- [3 jogos e acessórios de videogame até R$ 250: comparativo com preços de 14/11](https://marcusviniciusps08-hue.github.io/blog-fase-extra/top/jogos-e-acessorios-de-videogame-ate-250/)
 
 ## Guias
-- [Como escolher console de videogame: o que olhar na ficha antes de gastar (de R$ 615,43 a R$ 7.599)](https://marcusviniciusps08-hue.github.io/blog-fase-extra/guia/como-escolher-console-de-videogame/)
-- [Como escolher controle de jogos: o que olhar na ficha antes de gastar (de R$ 42,10 a R$ 487,72)](https://marcusviniciusps08-hue.github.io/blog-fase-extra/guia/como-escolher-controle-de-jogos/)
-- [Como escolher fone de ouvido: o que olhar na ficha antes de gastar (de R$ 43,99 a R$ 429,99)](https://marcusviniciusps08-hue.github.io/blog-fase-extra/guia/como-escolher-fone-de-ouvido/)
-- [Como escolher item de videogame: o que olhar na ficha antes de gastar (de R$ 7,37 a R$ 336,42)](https://marcusviniciusps08-hue.github.io/blog-fase-extra/guia/como-escolher-item-de-videogame/)
+- [Como escolher console de videogame: o que olhar na ficha antes de gastar (de R$ 615,43 a R$ 7.699)](https://marcusviniciusps08-hue.github.io/blog-fase-extra/guia/como-escolher-console-de-videogame/)
+- [Como escolher controle de jogos: o que olhar na ficha antes de gastar (de R$ 41,90 a R$ 489,90)](https://marcusviniciusps08-hue.github.io/blog-fase-extra/guia/como-escolher-controle-de-jogos/)
+- [Como escolher fone de ouvido: o que olhar na ficha antes de gastar (de R$ 40 a R$ 429,99)](https://marcusviniciusps08-hue.github.io/blog-fase-extra/guia/como-escolher-fone-de-ouvido/)
+- [Como escolher item de videogame: o que olhar na ficha antes de gastar (de R$ 26,20 a R$ 344,45)](https://marcusviniciusps08-hue.github.io/blog-fase-extra/guia/como-escolher-item-de-videogame/)
 
 ## Reviews
-- [Console Nintendo Switch 2, Modelo Nacional de Tomada: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-fase-extra/review/console-nintendo-switch-2-modelo-nacional-de-tomada-f7cf71/)
 - [Console PlayStation5 Slim Disk - Pacote ASTRO BOT em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-fase-extra/review/console-playstation5-slim-disk-pacote-astro-bot-cf762a/)
 - [Console Playstation 5 Pro 2tb Branco Sony Bivolt: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-fase-extra/review/console-playstation-5-pro-2tb-branco-sony-bivolt-4a4135/)
-- [Console Playstation 5 Slim Edição Digital 825 Gb: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-fase-extra/review/console-playstation-5-slim-edicao-digital-825-gb-330229/)
-- [Console Playstation®5 Slim Digital - Pacote Astro Bot: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-fase-extra/review/console-playstation5-slim-digital-pacote-astro-bot-34c518/)
-- [Console Sony Playstation 5 Edição Slim Disk 1tb em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-fase-extra/review/console-sony-playstation-5-edicao-slim-disk-1tb-74902d/)
 - [Nintendo Switch Console OLED 64gb: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-fase-extra/review/nintendo-switch-console-oled-64gb-361d4c/)
 - [Unidade De Disco Playstation 5 Slim Cor Branco em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-fase-extra/review/unidade-de-disco-playstation-5-slim-cor-branco-e7ac84/)
 - [Controle GameSir G7 SE com Fio para Xbox: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-fase-extra/review/controle-gamesir-g7-se-com-fio-para-xbox-7508c6/)
@@ -31,7 +27,6 @@ Contém links de afiliado Mercado Livre.
 - [Controle Para Ps2 Sem Fio Joystick Manete Plug: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-fase-extra/review/controle-para-ps2-sem-fio-joystick-manete-plug-1c4d71/)
 - [Controle Para Xbox 360 Com Fio Joystick Manete: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-fase-extra/review/controle-para-xbox-360-com-fio-joystick-manete-87dd17/)
 - [Controle Para Xbox 360 Com Fio USB Joystick: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-fase-extra/review/controle-para-xbox-360-com-fio-usb-joystick-5dbc6d/)
-- [Controle Playstation Dualshock 4 Sony Cor Preto Ps4: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-fase-extra/review/controle-playstation-dualshock-4-sony-cor-preto-ps4-14ae3c/)
 - [Controle Sem Fio Dualsense Playstation 5 Chroma Indigo: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-fase-extra/review/controle-sem-fio-dualsense-playstation-5-chroma-indigo-039a5b/)
 - [Fone De Ouvido Bluetooth Tune 125bt Preto Jbl: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-fase-extra/review/fone-de-ouvido-bluetooth-tune-125bt-preto-jbl-499ebe/)
 - [Fone De Ouvido Headset Office Usb Microfone Reunião em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-fase-extra/review/fone-de-ouvido-headset-office-usb-microfone-reuniao-da8dff/)
@@ -40,17 +35,12 @@ Contém links de afiliado Mercado Livre.
 - [Fones de ouvido Jbl Endurance Race 2 Bluetooth em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-fase-extra/review/fones-de-ouvido-jbl-endurance-race-2-bluetooth-ecc26c/)
 - [Headset Gamer Python Viper Pro Preto LED Verde: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-fase-extra/review/headset-gamer-python-viper-pro-preto-led-verde-e83ed2/)
 - [Headset Gamer V-Shield RGB USB Com Microfone Flexível: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-fase-extra/review/headset-gamer-v-shield-rgb-usb-com-microfone-flexivel-06bd09/)
-- [1/2/5 PCS Suportes Práticos De Controle Remoto, Suportes: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-fase-extra/review/1-2-5-pcs-suportes-praticos-de-controle-remoto-suportes-932bac/)
 - [Bateria para Controle Xbox 360 Recarregável Com Cabo: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-fase-extra/review/bateria-para-controle-xbox-360-recarregavel-com-cabo-b200e0/)
 - [Câmbio Driving Force Shifter Preto Logitech G em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-fase-extra/review/cambio-driving-force-shifter-preto-logitech-g-5dcda2/)
 - [Jogo Gta 5 Ps5 - Grand Theft Auto: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-fase-extra/review/jogo-gta-5-ps5-grand-theft-auto-47ad9b/)
 - [Razer Gold Digital R$ 30 (digital): vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-fase-extra/review/razer-gold-digital-r-30-digital-4db8a7/)
-- [Sony PlayStation Store Gift Card R$ 100 (Digital) em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-fase-extra/review/sony-playstation-store-gift-card-r-100-digital-4ef4a3/)
-- [Sony PlayStation Store Gift Card R$ 150 (Digital) em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-fase-extra/review/sony-playstation-store-gift-card-r-150-digital-65d389/)
 - [Super Mario Bros. Wonder Nintendo Switch (físico) em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-fase-extra/review/super-mario-bros-wonder-nintendo-switch-fisico-1a37ce/)
 - [The Legend of Zelda: Tears of the Kingdom em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-fase-extra/review/the-legend-of-zelda-tears-of-the-kingdom-cc36f4/)
-- [Cabo HDMI 2 Metros 2.0 Full HD 4K: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-fase-extra/review/cabo-hdmi-2-metros-2-0-full-hd-4k-2001d6/)
-- [Fone ouvido Xiaomi Redmi Airdots 2 /S TWS: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-fase-extra/review/fone-ouvido-xiaomi-redmi-airdots-2-s-tws-3d562d/)
 
 ## Sobre
 - [Sobre e afiliação](https://marcusviniciusps08-hue.github.io/blog-fase-extra/sobre/)
