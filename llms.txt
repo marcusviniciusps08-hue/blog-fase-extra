@@ -5,22 +5,23 @@
 Contém links de afiliado Mercado Livre.
 
 ## Comparativos
-- [4 consoles de videogame até R$ 4.500: comparativo com preços de 18/11](https://marcusviniciusps08-hue.github.io/blog-fase-extra/top/consoles-de-videogame-ate-4500/)
-- [3 controles de jogos até R$ 160: comparativo com preços de 18/11](https://marcusviniciusps08-hue.github.io/blog-fase-extra/top/controles-de-jogos-ate-160/)
-- [3 fones de ouvido até R$ 70: comparativo com preços de 18/11](https://marcusviniciusps08-hue.github.io/blog-fase-extra/top/fones-de-ouvido-ate-70/)
-- [3 jogos e acessórios de videogame até R$ 250: comparativo com preços de 18/11](https://marcusviniciusps08-hue.github.io/blog-fase-extra/top/jogos-e-acessorios-de-videogame-ate-250/)
+- [4 consoles de videogame até R$ 4.500: comparativo com preços de 20/11](https://marcusviniciusps08-hue.github.io/blog-fase-extra/top/consoles-de-videogame-ate-4500/)
+- [3 controles de jogos até R$ 160: comparativo com preços de 20/11](https://marcusviniciusps08-hue.github.io/blog-fase-extra/top/controles-de-jogos-ate-160/)
+- [3 fones de ouvido até R$ 70: comparativo com preços de 20/11](https://marcusviniciusps08-hue.github.io/blog-fase-extra/top/fones-de-ouvido-ate-70/)
+- [3 jogos e acessórios de videogame até R$ 250: comparativo com preços de 20/11](https://marcusviniciusps08-hue.github.io/blog-fase-extra/top/jogos-e-acessorios-de-videogame-ate-250/)
 
 ## Guias
 - [Como escolher console de videogame: o que olhar na ficha antes de gastar (de R$ 615,43 a R$ 7.699)](https://marcusviniciusps08-hue.github.io/blog-fase-extra/guia/como-escolher-console-de-videogame/)
-- [Como escolher controle de jogos: o que olhar na ficha antes de gastar (de R$ 42,90 a R$ 489,90)](https://marcusviniciusps08-hue.github.io/blog-fase-extra/guia/como-escolher-controle-de-jogos/)
+- [Como escolher controle de jogos: o que olhar na ficha antes de gastar (de R$ 42,90 a R$ 427,57)](https://marcusviniciusps08-hue.github.io/blog-fase-extra/guia/como-escolher-controle-de-jogos/)
 - [Como escolher fone de ouvido: o que olhar na ficha antes de gastar (de R$ 40 a R$ 429,99)](https://marcusviniciusps08-hue.github.io/blog-fase-extra/guia/como-escolher-fone-de-ouvido/)
-- [Como escolher item de videogame: o que olhar na ficha antes de gastar (de R$ 26,20 a R$ 350,08)](https://marcusviniciusps08-hue.github.io/blog-fase-extra/guia/como-escolher-item-de-videogame/)
+- [Como escolher item de videogame: o que olhar na ficha antes de gastar (de R$ 26,20 a R$ 329,99)](https://marcusviniciusps08-hue.github.io/blog-fase-extra/guia/como-escolher-item-de-videogame/)
 
 ## Reviews
 - [Console PlayStation5 Slim Disk - Pacote ASTRO BOT em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-fase-extra/review/console-playstation5-slim-disk-pacote-astro-bot-cf762a/)
 - [Console Playstation 5 Pro 2tb Branco Sony Bivolt: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-fase-extra/review/console-playstation-5-pro-2tb-branco-sony-bivolt-4a4135/)
 - [Console Playstation 5 Slim Edição Digital 825 Gb: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-fase-extra/review/console-playstation-5-slim-edicao-digital-825-gb-330229/)
 - [Console Playstation®5 Slim Digital - Pacote Astro Bot: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-fase-extra/review/console-playstation5-slim-digital-pacote-astro-bot-34c518/)
+- [Console Sony Playstation 5 Edição Slim Disk 1tb em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-fase-extra/review/console-sony-playstation-5-edicao-slim-disk-1tb-74902d/)
 - [Nintendo Switch Console OLED 64gb: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-fase-extra/review/nintendo-switch-console-oled-64gb-361d4c/)
 - [Unidade De Disco Playstation 5 Slim Cor Branco em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-fase-extra/review/unidade-de-disco-playstation-5-slim-cor-branco-e7ac84/)
 - [Controle GameSir G7 SE com Fio para Xbox: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-fase-extra/review/controle-gamesir-g7-se-com-fio-para-xbox-7508c6/)
